@@ -111,7 +111,7 @@ nav ul li img {
   left: -20px;
 }
 #saturn{
-  height: 130px;
+  height: 100px;
   width: 220px;
   background-image: url(9.png);
   background-repeat: no-repeat;
@@ -137,8 +137,8 @@ padding-left: 50px;
 
 }
 #neptune{
-  height: 130px;
-  width: 130px;
+  height: 100px;
+  width: 100px;
   background-image: url(11.png);
   background-repeat: no-repeat;
   border-radius: 50%;
